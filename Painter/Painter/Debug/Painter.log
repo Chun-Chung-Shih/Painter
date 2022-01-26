@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\source\repos\painter\painter\main.cpp(39): warning C4244: '引數': 將 'size_t' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Painter.vcxproj -> C:\Users\user\source\repos\Painter\Debug\Painter.exe
